@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Maze Solver</string>
+
+    <!--  Button texts  -->
+    <string name="button">Solve</string>
+
+    <!--  Maze labels  -->
+    <string name="start">S</string>
+    <string name="destination">D</string>
+    <string name="empty">E</string>
+    <string name="wall">W</string>
+    <string name="visited">V</string>
+
+    <!--  Toast texts  -->
+    <string name="unsolveable_maze">Maze is not solvable.</string>
+    <string name="solving_in_progress">Solving maze in the minimal %d steps…</string>
+    <string name="solving_complete">Solving complete!</string>
+    <string name="maze_not_ready">Maze is not ready to solve!</string>
+</resources>
